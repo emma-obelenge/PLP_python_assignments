@@ -1,5 +1,3 @@
-operators = ["+", "-", "x", "/"]
-
 print("Welcome to the Simple Calculator Program")
 print("This program only calculates for")
 print("addition (+), subtraction (-), multiplication (x), and division (/)")
